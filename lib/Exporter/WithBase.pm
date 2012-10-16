@@ -60,7 +60,7 @@ C<@ISA>.
 
 =head1 SEE ALSO
 
-L<import::Base>, L<parent>, L<Mojo:Base>.
+L<import::Base>, L<parent>, L<Mojo::Base>.
 
 =head1 AUTHOR
 

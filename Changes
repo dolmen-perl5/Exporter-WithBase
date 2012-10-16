@@ -1,6 +1,7 @@
 Revision history for Exporter-WithBase.
 
 {{$NEXT}}
+	Fix typo in POD.
 
 0.01
 	Initial release.
