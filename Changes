@@ -2,6 +2,10 @@ Revision history for Exporter-WithBase.
 
 {{$NEXT}}
 	Fix typo in POD.
+	Fixed Makefile.PL and MYMETA.* for BUILD_REQUIRES to not include core
+	  modules and local modules (in t::lib): nothing changed in code, just
+	  upgraded my Dist::Zilla toolchain (RT#87585).
+	Released on #cpanday.
 
 0.01
 	Initial release.
