@@ -64,7 +64,7 @@ L<import::Base>, L<parent>, L<Mojo::Base>.
 
 =head1 AUTHOR
 
-Olivier MenguE<eacute>, L<mailto:dolmen@cpan.org>.
+Olivier MenguE<eacute>, E<lt>L<dolmen@cpan.org|mailto:dolmen@cpan.org>E<gt>.
 
 =head1 COPYRIGHT & LICENSE
 
