@@ -1,6 +1,9 @@
 Revision history for Exporter-WithBase.
 
 {{$NEXT}}
+	Fix metadata:
+	- repository URL
+	- accent in author name
 
 0.02      2014-08-16 23:25:46+02:00 Europe/Paris
 	Fix typo in POD.
