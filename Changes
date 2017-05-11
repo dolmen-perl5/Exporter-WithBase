@@ -1,6 +1,7 @@
 Revision history for Exporter-WithBase.
 
 {{$NEXT}}
+	Fix testsuite for dot-less-@INC.
 
 0.03      2015-04-06 23:28:38+02:00 Europe/Paris
 	Fix metadata:
