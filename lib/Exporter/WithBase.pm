@@ -58,6 +58,11 @@ Does the same things as L<Exporter>, but also supports a C<-base> flag. That
 flag can be used in the C<use> statement of a class to push the class into
 C<@ISA>.
 
+The C<-base> flag must be the first argument in the import list:
+
+    use Mother qw( ONE -base ); # doesn't work
+    use Mother qw( -base ONE ); # works
+
 =head1 SEE ALSO
 
 L<import::Base>, L<parent>, L<Mojo::Base>.
